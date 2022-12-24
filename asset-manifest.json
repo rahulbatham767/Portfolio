@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.1e3663ed.css",
+    "main.css": "/Portfolio/static/css/main.e5560355.css",
     "main.js": "/Portfolio/static/js/main.d35fb2e7.js",
     "static/media/pexels-alexander-krivitskiy-1572878.jpg": "/Portfolio/static/media/pexels-alexander-krivitskiy-1572878.a70292e2cb2a74d6a65f.jpg",
     "static/media/foodpanda.png": "/Portfolio/static/media/foodpanda.ba899f1e01be2a8e714d.png",
@@ -18,11 +18,11 @@
     "static/media/cv.pdf": "/Portfolio/static/media/cv.a85ead6ba2aa7104cbaa.pdf",
     "static/media/ToDoList.png": "/Portfolio/static/media/ToDoList.30d7f9e9db8b76ba19ec.png",
     "index.html": "/Portfolio/index.html",
-    "main.1e3663ed.css.map": "/Portfolio/static/css/main.1e3663ed.css.map",
+    "main.e5560355.css.map": "/Portfolio/static/css/main.e5560355.css.map",
     "main.d35fb2e7.js.map": "/Portfolio/static/js/main.d35fb2e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e3663ed.css",
+    "static/css/main.e5560355.css",
     "static/js/main.d35fb2e7.js"
   ]
 }
